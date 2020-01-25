@@ -1,4 +1,4 @@
-## Let's make a scatterplot!
+## Introduction to Data Visualization With D3 and R!
 
 ### This is an introduction to interactive data visualization. 
 
