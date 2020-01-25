@@ -1,4 +1,4 @@
-## Introduction to Data Visualization With D3 and R!
+## Introduction to Data Visualization With D3 and R
 
 ### This is an introduction to interactive data visualization. 
 
@@ -9,8 +9,9 @@ In the YouTube description of each video, I will link to the corresponding code 
 ### Download these things before you start:
 
 1. A code editor. I use [Visual Studio Code](https://code.visualstudio.com/).
-2. [RStudio.](https://code.visualstudio.com/) This is a special IDE (that's an integrated development environment – a fancy code editor!) for the R language that has become widely adopted.
-3. [Tabula.](https://tabula.technology/) This let's you download data tables from PDF files (It's cooler than it sounds!)
+2. [R](https://www.r-project.org/about.html). R is a statistical programming language that makes it easy to analyze data! It actually is fun.
+3. [RStudio](https://rstudio.com/products/rstudio/download/#download) This is a special IDE (that's an integrated development environment – a fancy code editor!) for the R language that has become widely adopted.
+4. [Tabula](https://tabula.technology/) This let's you download data tables from PDF files (It's cooler than it sounds!)
 
 ### You are good enough!
 
